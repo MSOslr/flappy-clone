@@ -1,7 +1,8 @@
+
 {
   "name": "Flappy Clone",
-  "short_name": "Flappy Clone",
-  "start_url": "./index.html",
+  "short_name": "Flappy",
+  "start_url": "./",
   "display": "standalone",
   "background_color": "#0d1b2a",
   "theme_color": "#0d1b2a",
